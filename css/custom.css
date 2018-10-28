@@ -1,0 +1,38 @@
+
+/*
+body {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.navbar {
+  margin-bottom: 20px;
+}
+*/
+
+#myThymeleafImage{
+	height: 2vw;
+}
+
+#myFooter{
+	padding-top: 2vw;
+}
+
+.jumbotron{
+	padding: 1vw 2vw;
+}
+
+#summenUndSaldenEndergebnis{
+	border-top : solid;
+}
+
+
+#Sidebar{
+	overflow-y: auto;
+}
+
+#listeOhneAufzaehlingspunkte{
+	list-style-type: none;
+}
+
+
